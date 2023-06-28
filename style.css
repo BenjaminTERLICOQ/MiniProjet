@@ -1,25 +1,30 @@
 body {
-    width: 100%;
+  width: 100%;
 }
 
 .pre-header {
-    display: flex;
-    justify-content: center;
-    margin: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 30px;
 }
 
 .test {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 img {
-    visibility: visible;
+  visibility: visible;
+}
+
+.magasin img {
+  width: 290px;
+  height: 250px;
 }
 
 .store {
-    display: none;
+  display: none;
 }
