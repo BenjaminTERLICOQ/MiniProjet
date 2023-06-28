@@ -13,3 +13,19 @@ function recherche(){
        }
     }
 }
+function toggle(storeId) {
+    let storeDetails = document.getElementById(storeId);
+    if (storeDetails.style.display === "none") {
+      storeDetails.style.display = "block";
+    } else {
+      storeDetails.style.display = "none";
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
