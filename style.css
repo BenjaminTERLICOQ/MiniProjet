@@ -19,3 +19,7 @@ li {
 img {
     visibility: visible;
 }
+
+.store {
+    display: none;
+}
